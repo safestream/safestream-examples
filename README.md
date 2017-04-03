@@ -1,5 +1,5 @@
 # SafeStream Examples
-Examples for using the SafeStream API with different video players.
+SafeStream is an on-demand video watermarking API that provides real-time visible and forensic watermarks for just about any video file. This project contains examples for using the SafeStream API with different video players and explains some basic principles on controlling the user experience during the watermarking process.
 
 ## Overview
 This is a collection of examples that use different video players with the SafeStream API. The examples shows how the entire user experience can be controlled through client side JavaScript. Use this guide to:
