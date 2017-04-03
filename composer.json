@@ -1,0 +1,8 @@
+{
+    "name": "www-safestream-com",
+    "description": "SafeStream marketing website",
+    "require": {
+        "safestream/safestream-php-sdk": "1.2.3",
+        "fightbulc/moment": "*"
+    }
+}

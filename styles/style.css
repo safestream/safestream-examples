@@ -1,0 +1,74 @@
+html, body {
+  background-color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+  background-color: #049cdc;
+  height: 60px;
+  padding: 10px;
+}
+
+.logo {
+  background-image: url(https://files.readme.io/ys94TudGQZCTb2oMcPHi_safestream-logo.png);
+  width: 186px;
+  height: 40px;
+  display: inline-block;
+  background-size: contain;
+  background-position: center center;
+  margin-top: 8px;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.videocontainer {
+  background-color: #F5F5F5;
+  display: block;
+}
+
+.p-t {
+  padding-top: 40px;
+}
+
+.p-b {
+  padding-bottom: 40px;
+}
+
+.m-b {
+  margin-bottom: 40px;
+}
+
+
+label {
+  width: 150px;
+  display: inline-block;
+}
+
+input {
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+button {
+  background-color: #009DDF;
+  padding: 10px;
+  border: 1px solid transparent;
+  color: white;
+  border-radius: 4px;
+}
+
+.divider {
+  border-bottom: 1px solid #cecece;
+  width: 100%;
+  height: 1px;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
