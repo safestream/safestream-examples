@@ -20,8 +20,9 @@ This is a collection of examples that use different video players with the SafeS
 1. Dowload this repository and unzip into a folder of your choice
 2. Download and install composer for PHP
 3. Install the required dependencies php composer install phar
-4. Point your webserver (ie. MAMP) to the project directory
-5. Open a web browser and navigate to your project
+4. Edit safestream.php and add your client id and api key
+5. Point your webserver (ie. MAMP) to the project directory
+6. Open a web browser and navigate to your project
 
 
 
